@@ -10,9 +10,12 @@
 
 ## 📌 About Me
 
-- 🎓 Specialized in Embedded Software Engineering
-- 🧑‍💻 Back-End Developer with expertise in .NET
-- 👑 Experienced in scalable and efficient server-side applications
+- 🎓 Specialized in Software Engineering
+- 💡 Passionate about crafting elegant and efficient solutions to complex problems.
+- 🚀 Always eager to explore new technologies and best practices in software development.
+- 💻 Dedicated to building impactful products that deliver real value.
+- 🌱 Continuously learning and growing in the fast-paced tech landscape.
+
 
 
 <table>
